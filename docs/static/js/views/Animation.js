@@ -19,10 +19,7 @@ export default class extends AbstractView {
 
 
 
-           <iframe width="1024" height="576" 
-           src="https://www.youtube.com/embed/1sfYXsmzv-s" 
-           title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
-           clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+           
 
            <img src="../../../../static/css/images/SonicRunGif.gif" 
             alt="Sonic Run Gif" width="1024" height="576"/>
