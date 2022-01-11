@@ -52,7 +52,7 @@ export default class extends AbstractView {
         </div>
         <div class="column">
         
-           <a href="https://imgur.com/OeZCaed"><img src="https://i.imgur.com/OeZCaed.jpg" title="source: imgur.com" style="padding:50px;border-radius:100px"/></a>
+           <img src="https://i.imgur.com/OeZCaed.jpg" title="source: imgur.com" style="padding:50px;border-radius:100px"/>
         
         </div>
       </div>
