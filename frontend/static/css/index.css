@@ -1,0 +1,291 @@
+body { /* Main body layout*/
+    font-size: 22px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 800px) {
+  .column {
+    width: 100%;
+  }
+}
+
+h1{
+  overflow: hidden;
+  text-align: center;
+  margin: 0;
+}
+
+/*Persisting header*/
+h2{
+  color: rgb(0, 0, 0);
+  font-size: 2vw;
+  font-family: Bahnschrift SemiBold;
+  text-align: center;
+  margin: 1vh;
+  padding: 20px;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    font-size: 1vw;
+    font-family: Bahnschrift Light;
+    text-align: center;
+    margin: 1vh;
+}
+
+#app { /*The app itself*/
+    line-height: 1.5;
+    font-weight: 500;
+    margin: 2% 25% 0 25%;
+    padding: 5px; 
+    overflow-x: hidden;
+}
+
+a { 
+    color: #0b2f94;
+}
+
+/* Navbar container */
+.navbar {
+    overflow: hidden;
+    background-color: rgb(80, 80, 80);
+    font-family: Corbel; 
+  }
+
+  /* Links inside the navbar */
+  .navbar a {
+    float: left;
+    font-size: 1.5vh;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    padding-left: 2%;
+
+  }
+  
+  /* The dropdown container */
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  /* Dropdown button */
+  .dropdown .dropbtn {
+    font-size: 1.5vh;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+  }
+  
+  /* Add a red background color to navbar links on hover */
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    color: rgb(243, 25, 25);
+  }
+  
+  /* Dropdown content (hidden by default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #d3d1d1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  /* Add a grey background color to dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  body, html {
+    height: 100%;
+}
+
+
+.fade-in-image {
+  opacity: 100%;
+  transition:opacity 0.3s
+}
+
+.fade-in-image:hover {
+  opacity:60%;
+  transition:opacity 0.5s
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+}
+
+.img-with-text {
+  text-align: center;
+  width: auto;
+  padding: 20px;
+}
+
+.img-with-text img {
+  display: block;
+  margin: 0 auto;
+}
+
+.fade-in-text {
+  display: inline-block;
+  font-size: 20px;
+  color: black;
+  animation: fadeIn linear 1s;
+  -webkit-animation: fadeIn linear 1s;
+  -moz-animation: fadeIn linear 1s;
+  -o-animation: fadeIn linear 1s;
+  -ms-animation: fadeIn linear 1s;
+}
+
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+ul {
+  position:relative;
+  top:0%;
+  left:10%;
+  margin:0;
+  padding:60px;
+  display:flex;
+}
+
+ul li {
+  list-style: none;
+
+}
+
+ul li a {
+  position: relative;
+  width:60px;
+  height:60px;
+  display:block;
+  text-align:center;
+  margin:0 10px;
+  border-radius: 50%;
+  padding: 4px;
+  box-sizing: border-box;
+  text-decoration:none;
+  box-shadow: 0 10px 15px rgba(0,0,0,0.3);
+  background: linear-gradient(0deg, #ddd, #fff);
+  transition: .5s;
+}
+
+ul li a:hover {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+  text-decoration:none;
+}
+
+ul li a .fab {
+  width: 100%;
+  height:100%;
+  display:block;
+  background: linear-gradient(0deg, #fff, #ddd);
+  border-radius: 50%;
+  line-height: calc(60px - 12px);
+  font-size:24px;
+  color: #262626;
+  transition: .5s;
+}
+
+ul li:nth-child(1) a:hover .fab {
+  color: #d41111;
+}
+
+ul li:nth-child(2) a:hover .fab {
+  color: #00aced;
+}
+
+ul li:nth-child(3) a:hover .fab {
+  color: #c0c0c0;
+}
+
+ul li:nth-child(4) a:hover .fab {
+  color: #007bb6;
+}
+
+ul li:nth-child(5) a:hover .fab {
+  color: #e4405f;
+}
+
+.smallHeader {
+  width: 100%;
+  height: 9em;
+  background-image: linear-gradient(rgb(80, 80, 80), rgba(0, 0, 0, 0.0)), url("././images/hero3.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.smallHeader .smallHeader-image {
+  display: block;
+  visibility: hidden;
+  height: auto;
+  width: 100%;
+}
+

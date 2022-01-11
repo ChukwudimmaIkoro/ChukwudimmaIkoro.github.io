@@ -1,0 +1,24 @@
+import AbstractView from "./AbstractView.js";
+
+export default class extends AbstractView {
+    constructor(params) {
+        super(params);
+        this.setTitle("Resume");
+    }
+
+    //Async lets us render html to use fetch API to grab/return data from method.
+   
+    async getHtml() {
+        return `
+        <div class="fade-in-text">
+        <h1>CS Resume</h1>
+
+           <iframe frameborder="0" scrolling="no"
+           width="1080" height="1080"
+           src="https://drive.google.com/file/d/1Rdz7Jc-ZPaiPIzHsyL7RFLS8NhY6pwJ7/preview">
+           </iframe>
+
+        </div>
+        `;
+    }
+}
