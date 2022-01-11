@@ -21,8 +21,8 @@ export default class extends AbstractView {
 
                 <div class="fade-in-image">
                     <div class="img-with-text">
-                        <a href="/portfolio/animation">                    
-                        <img src=""https://i.imgur.com/oIxz8AN.gif" title="source: imgur.com" width:800 height=600></a> 
+                        <a href="/portfolio/animation" data-link>                  
+                        <img src="https://i.imgur.com/oIxz8AN.gif" title="source: imgur.com" width:800 height=600></a> 
                         <h2>Animation</h2>
                     </div>
                 </div>
