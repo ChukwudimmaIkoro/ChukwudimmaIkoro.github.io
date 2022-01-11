@@ -19,6 +19,7 @@ export default class extends AbstractView {
 
            <h2>Personal Single Page Website Application</h2>
            <h3>You're looking at it right now!</h3>
+           <h3><a href="https://github.com/ChukwudimmaIkoro/ChukwudimmaIkoro.github.io" target="_blank" rel="noopener noreferrer">Github Link</a></h3>
 
            <p>JavaScript website created from scratch, hosted and edited locally using no frameworks, and uploaded online via Github.</p>
            <p>● Utilizes single-page infrastructure in order to only load the page once, with subsequent links leading to different views.</p>
@@ -34,7 +35,7 @@ export default class extends AbstractView {
                members, and post updates to a feed that all project members can see.</p>
                <p>● Project was created for Codepath Demo Day 2020, while working with two other team members.</p>
 
-               <img src="../static/css/images/ShareLabsWalkthru.gif"<br><br><br/>
+               <img src="https://i.imgur.com/y5OeAEw.gif" title="source: imgur.com"<br><br><br/>
 
                <hr style="height:6px;border-width:0;color:gray;background-color:gray">
 
@@ -48,7 +49,7 @@ export default class extends AbstractView {
                <p>● User can scroll up to refresh the home page with newly fetched tweets, which also displays the poster and time
                since the tweet was posted.</p>
 
-               <img src="../static/css/images/TweetWalkthru.gif" <br><br><br/>
+               <img src="https://i.imgur.com/AhKltwV.gif" title="source: imgur.com"<br><br><br/> 
 
                <hr style="height:6px;border-width:0;color:gray;background-color:gray">
 
