@@ -39,7 +39,7 @@ export default class extends AbstractView {
             in my work.</p>
 
         <p>
-            <a href="/portfolio" data-link>Here is my current computer science resume,</a>
+            <a href="/portfolio/resume" data-link>Here is my current computer science resume,</a>
             and you can find individual portfolios in the tabs above! I hope to work with you
             one day!
         </p>
@@ -52,7 +52,7 @@ export default class extends AbstractView {
         </div>
         <div class="column">
         
-           <img src="../../../../static/css/images/aboutmepic.jpg" style="padding:50px;border-radius:100px">  
+           <a href="https://imgur.com/OeZCaed"><img src="https://i.imgur.com/OeZCaed.jpg" title="source: imgur.com" style="padding:50px;border-radius:100px"/></a>
         
         </div>
       </div>
