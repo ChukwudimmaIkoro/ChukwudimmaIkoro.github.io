@@ -54,8 +54,7 @@ export default class extends AbstractView {
                 <div class="img-with-text">
                     <a href="/portfolio/resume">       
                     <img src="https://i.imgur.com/jbIKWK7.jpg" title="source: imgur.com" width=800 height=600></a> 
-                    <a href="/portfolio/resume" data-link> resume</a>
-                    <h2>CS Resume</h2>
+                    <a href="/portfolio/resume" data-link><h2>CS Resume</h2></a>
                 </div>
             </div>
 
