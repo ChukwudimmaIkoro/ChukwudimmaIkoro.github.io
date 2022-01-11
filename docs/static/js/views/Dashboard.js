@@ -22,7 +22,7 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                     <div class="img-with-text">
                         <a href="/portfolio/animation">                    
-                        <img src="https://source.unsplash.com/fk4tiMlDFF0/800x600/" width:800 height=600></a>
+                        <img src=""https://i.imgur.com/oIxz8AN.gif" title="source: imgur.com" width:800 height=600></a> 
                         <h2>Animation</h2>
                     </div>
                 </div>
@@ -37,7 +37,7 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                 <div class="img-with-text">
                     <a href="/portfolio/programming">
-                    <img src="../../../../static/css/images/matrixgif.gif" width=800 height=600></a>
+                    <img src="https://i.imgur.com/dN8wCcl.gif" title="source: imgur.com" width=800 height=600></a> 
                     <h2>Programming</h2>
                 </div>
             </div>
@@ -53,7 +53,7 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                 <div class="img-with-text">
                     <a href="/portfolio/resume">
-                    <img src="../../../../static/css/images/resumeThumb.jpg" width=800 height=600></a>
+                    <img src="https://i.imgur.com/jbIKWK7.jpg" title="source: imgur.com" width=800 height=600></a> 
                     <h2>CS Resume</h2>
                 </div>
             </div>
@@ -68,7 +68,7 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                 <div class="img-with-text">
                     <a href="/aboutme">
-                    <img src="../../../../static/css/images/aboutThumb.jpg" width=800 height=600></a>
+                    <img src="https://i.imgur.com/9GoxCIO.jpg" title="source: imgur.com" width=800 height=600></a>
                     <h2>About Me</h2>
                 </div>
             </div>
