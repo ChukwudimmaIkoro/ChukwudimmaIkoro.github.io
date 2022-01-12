@@ -69,11 +69,12 @@ export default class extends AbstractView {
 
                 <div class="fade-in-image">
                 <div class="img-with-text">
-                    <a href="/aboutme">
-                    <img src="https://i.imgur.com/9GoxCIO.jpg" title="source: imgur.com" width=800 height=600></a>
+                    <a href="/aboutme" class="nav__link" data-link>
+                    <img src="https://i.imgur.com/9GoxCIO.jpg" title="source: imgur.com" width=800 height=600>
                     <h2>About Me</h2>               
                 </div>
             </div>
+            </a>
 
             <h3>
                 A quick summary of my skills and goals. <br> Get to know me!
