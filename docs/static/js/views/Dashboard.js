@@ -43,18 +43,20 @@ export default class extends AbstractView {
             </div>
 
             <h3>
-                Web, mobile, and backend coding projects I developed
+                <a href="/portfolio/resume" class="nav__link" data-link>Web, mobile, and backend coding projects I developed
                 using various languages such as Java, C, HTML/CSS, and JavaScript.
-                </h3>
+                </h3></a>
             </div>
 
             <div class="column">
 
                 <div class="fade-in-image">
                 <div class="img-with-text">
-                           
+                
+                    <a href="/portfolio/resume" class="nav__link" data-link>Resume</a>      
                     <img src="https://i.imgur.com/jbIKWK7.jpg" title="source: imgur.com" width=800 height=600>
-                    <a href="/portfolio/resume" data-link><h2>CS Resume</h2></a>
+                    <h2>CS Resume</h2>
+                    
                 </div>
             </div>
 
