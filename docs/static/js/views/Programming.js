@@ -21,7 +21,7 @@ export default class extends AbstractView {
            <h3>You're looking at it right now!</h3>
            <h3><a href="https://github.com/ChukwudimmaIkoro/ChukwudimmaIkoro.github.io" target="_blank" rel="noopener noreferrer">Github Link</a></h3>
 
-           <p>JavaScript website created from scratch, hosted and edited locally using no frameworks, and uploaded online via Github.</p>
+           <p>JavaScript website created from scratch, hosted and edited locally using Node.js, and uploaded online via Github.</p>
            <p>● Utilizes single-page infrastructure in order to only load the page once, with subsequent links leading to different views.</p>
 
            <hr style="height:6px;border-width:0;color:gray;background-color:gray">
