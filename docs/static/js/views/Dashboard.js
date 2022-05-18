@@ -22,15 +22,12 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                     <div class="img-with-text">
 
-                    <img src="https://i.imgur.com/oIxz8AN.gif" title="source: imgur.com" width:800 height=600>
-                    <h2>Animation</h2>
+                    <img src="docs/static/css/images/Art120_Gif.gif" style="width=800; height=600">
+                    <h2><a href="/portfolio/animation" class="nav__link" data-link>Animation</h2></a>
                 </div>
             </div>
 
-                <h3>
-                <a href="/portfolio/animation" class="nav__link" data-link>
-                    Animation projects I have done for 
-                    classes, Youtube, or just for personal improvement.</h3></a>
+                <h3> Animation projects I have done for classes, Youtube, or just for personal improvement.</h3>
                 </div>
             
              <div class="column">
@@ -38,16 +35,12 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                     <div class="img-with-text">
                    
-                    <img src="https://i.imgur.com/dN8wCcl.gif" width=800 height=600></a>
-                    <h2>Programming</h2>
+                    <img src="docs/static/css/images/matrixgif.gif" style="width=800; height=600">
+                    <h2><a href="/portfolio/programming" class="nav__link" data-link>Programming</h2></a>
                 </div>
             </div>
 
-                <h3>
-                <a href="/portfolio/programming" class="nav__link" data-link>
-                    Web, mobile, and backend coding projects I developed
-                    using various languages such as Java, C, HTML/CSS, and JavaScript.
-                </h3></a>
+                <h3>Web, mobile, and backend coding projects I developed using various languages such as Java, C, HTML/CSS, and JavaScript.</h3>
             </div>
 
 
@@ -56,7 +49,7 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                 <div class="img-with-text">
                     
-                <a href="/portfolio/storyboards" onClick={(e) => e.preventDefault()} class="nav__link" data-link><img src="docs/static/css/images/ZeldaSB.gif" style="width=800; height=600"</a>
+                <img src="docs/static/css/images/ZeldaSB.gif" style="width=800; height=600">
                 
                 <h2><a href="/portfolio/storyboards" class="nav__link" data-link>Storyboards</h2></a>
                 </div>
@@ -70,15 +63,12 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                 <div class="img-with-text">
                     
-                    <img src="https://i.imgur.com/jbIKWK7.jpg" width=800 height=600></a>
-                    <h2>Resumes</h2>
+                    <img src="docs/static/css/images/resumeThumb.gif" style="width=800; height=600">
+                    <h2><a href="/aboutme" class="nav__link" data-link>Resumes</h2>
                 </div>
             </div>
 
-            <h3>
-            <a href="/portfolio/resume" class="nav__link" data-link>
-                My official resumes for art and programming. <br> Updated May 2022.
-                </h3></a>
+            <h3>My official resumes for art and programming. <br> Updated May 2022.</h3></a>
             </div>
             
         </div>
