@@ -22,17 +22,17 @@ export default class extends AbstractView {
            title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
            clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-           <img src="../../../static/css/images/SonicRunGif.gif" 
-            alt="Sonic Run" width="1024" height="576"/>
+           <img src="docs/static/css/images/SonicRunGif.gif" 
+            style="width=1024; height="576">
 
             <img src="docs/static/css/images/Flour_Fight.gif" 
-            style="width=1024; height=576"/a>
+            style="width=1024; height=576">
 
            <img src="https://i.imgur.com/oIxz8AN.gif" title="source: imgur.com" 
             alt="Art 120 Gif" width="960" height="540"/>
 
             <img src="docs/static/css/images/BallTail.gif" 
-            style="width=1024; height=576"/a>
+            style="width=1024; height=576"</a>
 
             <img src="../../../static/css/images/Sonic_Final.gif" 
             alt="Sonic Final" width="1024" height="576"/>
