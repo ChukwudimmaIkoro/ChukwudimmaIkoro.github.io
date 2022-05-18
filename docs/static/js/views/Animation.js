@@ -37,7 +37,7 @@ export default class extends AbstractView {
             <img src="../../../static/css/images/Sonic_Final.gif" 
             alt="Sonic Final" width="1024" height="576"/>
    
-            <img src="../../../static/css/images/flow.gif" 
+            <img src="../../../static/css/images/flow.gif"  
             alt="Flow" width="1024" height="576"/>
 
             <img src="../../../../../static/css/images/owlphibia.gif" 
