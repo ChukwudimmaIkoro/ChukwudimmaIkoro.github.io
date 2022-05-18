@@ -22,7 +22,7 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                     <div class="img-with-text">
 
-                    <img src="static/css/images/Art120_Gif.gif" title="source: imgur.com" width=800 height=600></a>
+                    <img src="https://i.imgur.com/oIxz8AN.gif" title="source: imgur.com" width:800 height=600>
                     <h2>Animation</h2>
                 </div>
             </div>
@@ -38,7 +38,7 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                     <div class="img-with-text">
                    
-                    <img src="static/css/images/matrixgif.gif" width=800 height=600></a>
+                    <img src="https://i.imgur.com/dN8wCcl.gif" width=800 height=600></a>
                     <h2>Programming</h2>
                 </div>
             </div>
@@ -72,7 +72,7 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                 <div class="img-with-text">
                     
-                    <img src="static/css/images/resumeThumb.jpg" width=800 height=600></a>
+                    <img src="https://i.imgur.com/jbIKWK7.jpg" width=800 height=600></a>
                     <h2>Resumes</h2>
                 </div>
             </div>
