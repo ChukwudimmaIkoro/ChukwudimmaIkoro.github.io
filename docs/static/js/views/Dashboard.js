@@ -19,10 +19,9 @@ export default class extends AbstractView {
 
             <div class="column">
 
-                <div class="fade-in-image">
-                <a href="/chukwudimmaikoro.github.io/portfolio/animation">
+                <div class="fade-in-image">               
                     <div class="img-with-text">
-                  
+                        <a href="/portfolio/animation" class="nav__link" data-link>
                         <img src="https://i.imgur.com/oIxz8AN.gif" title="source: imgur.com" width:800 height=600> 
                         <h2>Animation</h2>
                     </div>
