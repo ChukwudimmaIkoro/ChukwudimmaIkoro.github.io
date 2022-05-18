@@ -16,9 +16,7 @@ export default class extends AbstractView {
         <p>
            This is a collection of animation I have done for 
            classes, Youtube, or just for personal improvement.</p>
-
-
-
+           
            <iframe width="1024" height="576" 
            src="https://www.youtube.com/embed/TD9cUuaGlI0" 
            title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
@@ -30,7 +28,7 @@ export default class extends AbstractView {
             <img src="../../../../../static/css/images/Flour_Fight.gif" 
             alt="Flour Fight" width="1024" height="576"/>
 
-            <img src="../../../../../static/css/images/Art120_Gif.gif" 
+           <img src="https://i.imgur.com/oIxz8AN.gif" title="source: imgur.com" 
             alt="Art 120 Gif" width="960" height="540"/>
 
             <img src="../../../../../static/css/images/BallTail.gif" 
