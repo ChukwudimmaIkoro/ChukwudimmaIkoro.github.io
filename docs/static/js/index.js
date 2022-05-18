@@ -6,6 +6,7 @@ import Portfolio from "./views/Portfolio.js";
 import Animation from "./views/Animation.js";
 import Programming from "./views/Programming.js";
 import Resume from "./views/Resume.js";
+import Storyboards from "./views/Storyboards.js";
 
 const pathToRegex = path => new RegExp("^" + path.replace(/\//g, "\\/").replace(/:\w+/g, "(.+)") + "$");
 
@@ -34,7 +35,8 @@ const router = async () => {
         { path: "/portfolio", view: Portfolio },
         { path: "/portfolio/animation", view: Animation},
         { path: "/portfolio/programming", view: Programming},
-        { path: "/portfolio/resume", view: Resume}
+        { path: "/portfolio/resume", view: Resume},
+        { path: "/portfolio/storyboards", view: Storyboards}
     ];
 
     //Test each route for potential match

@@ -15,10 +15,20 @@ export default class extends AbstractView {
 
            <iframe frameborder="0" scrolling="no"
            width="1080" height="1080"
-           src="https://drive.google.com/file/d/1Rdz7Jc-ZPaiPIzHsyL7RFLS8NhY6pwJ7/preview">
+           src="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview">
            </iframe>
 
+           <h1>Art Resume</h1>
+
+           <iframe frameborder="0" scrolling="no"
+           width="1080" height="1080"
+           src="https://drive.google.com/file/d/1NGbNtH4NDODOeDoOGtybTfT5xALsxdyn/preview">
+           </iframe>
+
+
         </div>
+
+
         `;
     }
 }

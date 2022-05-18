@@ -26,9 +26,9 @@ export default class extends AbstractView {
             no frameworks used!</p>
             
         <p>
-            You may also know me as AzureChuck! I also work in animation and digital
+            You may also know me as AzureChuck! I also study animation and digital
             art, and produce animated videos working with other creators and artists
-            on my Youtube channel AzureChuck, which has gained over 5,900 subscribers. 
+            on my Youtube channel AzureChuck, which has gained over 6,000 subscribers. 
             I have had a huge passion for animation since I was a kid making flipbook 
             videos with Flipnote Studio on my DS (quality withstanding)!</p>
          
@@ -39,7 +39,7 @@ export default class extends AbstractView {
             in my work.</p>
 
         <p>
-            <a href="/portfolio" data-link>Here is my current computer science resume,</a>
+            <a href="/portfolio/resume" data-link>Here are my current resumes,</a>
             and you can find individual portfolios in the tabs above! I hope to work with you
             one day!
         </p>
@@ -51,7 +51,7 @@ export default class extends AbstractView {
         
         </div>
         <div class="column">
-            <img src="static/css/images/aboutmepic.jpg" style="padding:50px;border-radius:100px">
+            <img src="static/css/images/about4.png" style="padding:40px">
         
         </div>
       </div>

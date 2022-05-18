@@ -25,21 +25,28 @@ export default class extends AbstractView {
            clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
            <img src="../../../../../static/css/images/SonicRunGif.gif" 
-            alt="Sonic Run Gif" width="1024" height="576"/>
+            alt="Sonic Run" width="1024" height="576"/>
+
+            <img src="../../../../../static/css/images/Flour_Fight.gif" 
+            alt="Flour Fight" width="1024" height="576"/>
 
             <img src="../../../../../static/css/images/Art120_Gif.gif" 
             alt="Art 120 Gif" width="960" height="540"/>
 
-           <iframe width="1024" height="576" 
-           src="https://www.youtube.com/embed/x_w9IRsb69c" 
-           title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
-           clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <img src="../../../../../static/css/images/BallTail.gif" 
+            alt="Ball Tail" width="1024" height="576"/>
 
-           <iframe width="1024" height="576" src="https://www.youtube.com/embed/jsA3IRDXibc" 
-           title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
-           clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <img src="../../../../../static/css/images/Sonic_Final.gif" 
+            alt="Sonic Final" width="1024" height="576"/>
+   
+            <img src="../../../../../static/css/images/flow.gif" 
+            alt="Flow" width="1024" height="576"/>
 
-            
+            <img src="../../../../../static/css/images/owlphibia.gif" 
+            alt="Owlphibia" width="1024" height="576"/>
+
+            <img src="../../../../../static/css/images/SnomSpin.gif" 
+            alt="SnomSpin" width="1024" height="576"/>
 
         </div>
         `;
