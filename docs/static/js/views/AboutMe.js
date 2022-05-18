@@ -51,7 +51,7 @@ export default class extends AbstractView {
         
         </div>
         <div class="column">
-            <img src="static/css/images/about4.png" style="padding:40px">
+            <img src="docs/static/css/images/about4.png" style="padding:40px">
         
         </div>
       </div>
