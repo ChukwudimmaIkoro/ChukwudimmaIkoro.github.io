@@ -20,6 +20,7 @@ export default class extends AbstractView {
             <div class="column">
 
                 <div class="fade-in-image">
+                <a href="/portfolio/animation">
                     <div class="img-with-text">
                   
                         <img src="https://i.imgur.com/oIxz8AN.gif" title="source: imgur.com" width:800 height=600> 
