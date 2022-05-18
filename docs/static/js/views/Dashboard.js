@@ -56,7 +56,7 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                 <div class="img-with-text">
                    
-                    <img src="../../css/images/ZeldaSB.gif" width=800 height=600></a>
+                    <img src="docs/static/css/images/ZeldaSB.gif" style="width=800; height=600>"</a>
                     <h2>Storyboards</h2>
                 </div>
             </div>
