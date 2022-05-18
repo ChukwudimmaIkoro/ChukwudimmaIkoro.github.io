@@ -55,9 +55,9 @@ export default class extends AbstractView {
 
                 <div class="fade-in-image">
                 <div class="img-with-text">
-                <a href= "/portfolio/storyboards">
+                
                     <img src="docs/static/css/images/ZeldaSB.gif" style="width=800; height=600>"</a>
-                    <h2>Storyboards</h2>
+                    <h2><a href="/portfolio/storyboards" class="nav__link" data-link>Storyboards</h2></a>
                 </div>
             </div>
 

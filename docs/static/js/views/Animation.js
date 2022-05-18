@@ -26,13 +26,13 @@ export default class extends AbstractView {
             alt="Sonic Run" width="1024" height="576"/>
 
             <img src="docs/static/css/images/Flour_Fight.gif" 
-            alt="Flour Fight" style="width=1024; height=576"/>
+            style="width=1024; height=576"/a>
 
            <img src="https://i.imgur.com/oIxz8AN.gif" title="source: imgur.com" 
             alt="Art 120 Gif" width="960" height="540"/>
 
-            <img src="../../css/images/BallTail.gif" 
-            alt="Ball Tail" width="1024" height="576"/>
+            <img src="docs/static/css/images/BallTail.gif" 
+            style="width=1024; height=576"/a>
 
             <img src="../../../static/css/images/Sonic_Final.gif" 
             alt="Sonic Final" width="1024" height="576"/>
