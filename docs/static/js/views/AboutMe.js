@@ -39,7 +39,7 @@ export default class extends AbstractView {
             in my work.</p>
 
         <p>
-            <a href="/portfolio/resume" data-link>Here are my current resumes,</a>
+            <a href="/resume" data-link>Here are my current resumes,</a>
             and you can find individual portfolios in the tabs above! I hope to work with you
             one day!
         </p>

@@ -33,10 +33,10 @@ const router = async () => {
         { path: "/aboutme", view: AboutMe },
         { path: "/posts/:id", view: PostView },
         { path: "/portfolio", view: Portfolio },
-        { path: "/portfolio/animation", view: Animation},
-        { path: "/portfolio/programming", view: Programming},
-        { path: "/portfolio/resume", view: Resume},
-        { path: "/portfolio/storyboards", view: Storyboards}
+        { path: "/animation", view: Animation},
+        { path: "/programming", view: Programming},
+        { path: "/resume", view: Resume},
+        { path: "/storyboards", view: Storyboards}
     ];
 
     //Test each route for potential match

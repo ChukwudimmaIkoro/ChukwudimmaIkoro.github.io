@@ -23,7 +23,7 @@ export default class extends AbstractView {
                     <div class="img-with-text">
 
                     <img src="docs/static/css/images/Art120_Gif.gif" style="width=800; height=600">
-                    <h2><a href="/portfolio/animation" class="nav__link" data-link>Animation</h2></a>
+                    <h2><a href="/animation" class="nav__link" data-link>Animation</h2></a>
                 </div>
             </div>
 
@@ -36,7 +36,7 @@ export default class extends AbstractView {
                     <div class="img-with-text">
                    
                     <img src="docs/static/css/images/matrixgif.gif" style="width=800; height=600">
-                    <h2><a href="/portfolio/programming" class="nav__link" data-link>Programming</h2></a>
+                    <h2><a href="/programming" class="nav__link" data-link>Programming</h2></a>
                 </div>
             </div>
 
@@ -51,7 +51,7 @@ export default class extends AbstractView {
                     
                 <img src="docs/static/css/images/ZeldaSB.gif" style="width=800; height=600">
                 
-                <h2><a href="/portfolio/storyboards" class="nav__link" data-link>Storyboards</h2></a>
+                <h2><a href="/storyboards" class="nav__link" data-link>Storyboards</h2></a>
                 </div>
             </div>
 
@@ -63,7 +63,7 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                 <div class="img-with-text">
                     
-                    <img src="docs/static/css/images/resumeThumb.gif" style="width=800; height=600">
+                    <img src="docs/static/css/images/resumeThumb.jpg" style="width=800; height=600">
                     <h2><a href="/aboutme" class="nav__link" data-link>Resumes</h2>
                 </div>
             </div>
