@@ -63,7 +63,8 @@ export default class extends AbstractView {
                 <div class="fade-in-image">
                 <div class="img-with-text">
                     
-                <img src="docs/static/css/images/resumeThumb.jpg" style="width=800; height=600">
+                <h2><a href= /resume">
+                <img src="docs/static/css/images/resumeThumb.jpg" style="width=800; height=600"></a></h2>
                     
                 <h2><a href="/aboutme" class="nav__link" data-link>Resumes</h2>
                 </div>
