@@ -11,6 +11,7 @@ export default class extends AbstractView {
     async getHtml() {
         return `
 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <div class="fade-in-text">
 
         <h2>Hello!</h2>
@@ -65,7 +66,7 @@ export default class extends AbstractView {
                                    
                 <img src="docs/static/css/images/resumeThumb.jpg" style="width=800; height=600">
                     
-                <h2><a href="/resume" class="nav__link" data-link>Resumes</h2>
+                <h2><a href="/resume" class="nav__link" data-link>Resumes</h2></a>
                 </div>
             </div>
 
