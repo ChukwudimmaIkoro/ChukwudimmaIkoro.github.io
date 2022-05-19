@@ -11,7 +11,7 @@ export default class extends AbstractView {
     async getHtml() {
         return `
 
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
         <div class="fade-in-text">
 
         <h2>Hello!</h2>
