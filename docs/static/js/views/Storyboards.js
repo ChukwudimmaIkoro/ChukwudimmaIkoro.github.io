@@ -19,6 +19,7 @@ export default class extends AbstractView {
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/RmMAZkXsq6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/BQv7hqgtacM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
 
