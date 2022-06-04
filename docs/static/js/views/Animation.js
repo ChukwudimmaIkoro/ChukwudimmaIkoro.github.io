@@ -18,6 +18,7 @@ export default class extends AbstractView {
            classes, Youtube, or just for personal improvement.</p>
 
            <div class="row">
+            <div class="column">
            
            <iframe width="1024" height="576" 
            src="https://www.youtube.com/embed/TD9cUuaGlI0" 
@@ -50,7 +51,7 @@ export default class extends AbstractView {
             style="width=100%; height=576">
 
             </div>
-
+            </div>
         </div>
         `;
     }
