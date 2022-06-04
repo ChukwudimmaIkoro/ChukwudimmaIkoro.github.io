@@ -13,12 +13,16 @@ export default class extends AbstractView {
         <div class="fade-in-text">
             
         <h1>CS Resume</h1>
-
-           <iframe src="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview" width="640" height="480" scrolling="yes" allow="autoplay"></iframe>
+        
+           <div class="container">
+           <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview" width="640" height="480" scrolling="yes" allow="autoplay"></iframe>
+           </div>
            
            <h1>Art Resume</h1>
            
-           <iframe src="https://drive.google.com/file/d/1NGbNtH4NDODOeDoOGtybTfT5xALsxdyn/preview" width="640" height="480" scrolling="yes" allow="autoplay"></iframe>
+           <div class="container">
+           <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1NGbNtH4NDODOeDoOGtybTfT5xALsxdyn/preview" width="640" height="480" scrolling="yes" allow="autoplay"></iframe>
+           </div>
            
         </div>
 
