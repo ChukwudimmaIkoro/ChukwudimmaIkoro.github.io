@@ -18,14 +18,12 @@ export default class extends AbstractView {
            classes, Youtube, or just for personal improvement.</p>
 
            <div class="row">
-           <div class="column">
            
-           <div class="wrap">
            <iframe width="1024" height="576" 
            src="https://www.youtube.com/embed/TD9cUuaGlI0" 
            title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
            clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-           </div>
+          
 
             <img src="docs/static/css/images/SonicRunGif.gif" 
             style="width=100%; height=576">
@@ -51,7 +49,6 @@ export default class extends AbstractView {
             <img src="docs/static/css/images/SnomSpin.gif" 
             style="width=100%; height=576">
 
-            </div>
             </div>
 
         </div>
