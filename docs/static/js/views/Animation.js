@@ -36,6 +36,9 @@ export default class extends AbstractView {
 
             <img src="docs/static/css/images/BallTail.gif" 
             style="width=100%; height=576"</a>
+            
+            </div>
+            <div class="column">
 
             <img src="docs/static/css/images/Sonic_Final.gif" 
             style="width=100%; height=576">
