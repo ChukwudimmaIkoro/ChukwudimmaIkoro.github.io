@@ -14,14 +14,14 @@ export default class extends AbstractView {
         <h1>CS Resume</h1>
 
            <iframe frameborder="0" scrolling="yes"
-           width="720" height="720"
+           width="720" height="720" float="left"
            src="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview">
            </iframe>
 
            <h1>Art Resume</h1>
 
            <iframe frameborder="0" scrolling="yes"
-           width="720" height="720"
+           width="720" height="720" float="left"
            src="https://drive.google.com/file/d/1NGbNtH4NDODOeDoOGtybTfT5xALsxdyn/preview">
            </iframe>
 
