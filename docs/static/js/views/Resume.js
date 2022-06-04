@@ -14,15 +14,15 @@ export default class extends AbstractView {
             
         <h1>CS Resume</h1>
         
-           <div class="container">
-           <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview" width="100%" height="100%" allow="autoplay"></iframe>
-           </div>
+           
+           <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview" width="50%" allow="autoplay"></iframe>
+           
            
            <h1>Art Resume</h1>
            
-           <div class="container">
-           <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1NGbNtH4NDODOeDoOGtybTfT5xALsxdyn/preview" width="100%" height="100%" allow="autoplay"></iframe>
-           </div>
+           
+           <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1NGbNtH4NDODOeDoOGtybTfT5xALsxdyn/preview" width="50%" allow="autoplay"></iframe>
+           
            
         </div>
 
