@@ -26,7 +26,7 @@ export default class extends AbstractView {
           
 
             <img src="docs/static/css/images/SonicRunGif.gif" 
-            style="width=100%; height=576">
+            style="width=80%; height=auto">
 
             <img src="docs/static/css/images/Flour_Fight.gif" 
             style="width=100%; height=576">
