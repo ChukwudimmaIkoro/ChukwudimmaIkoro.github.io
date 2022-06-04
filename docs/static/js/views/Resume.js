@@ -14,10 +14,7 @@ export default class extends AbstractView {
             
         <h1>CS Resume</h1>
 
-           <iframe frameborder="0" scrolling="no"
-           width="1080" height="1080"
-           src="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview">
-           </iframe>
+           <iframe src="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview" width="640" height="480" allow="autoplay"></iframe>
            
            <h1>Art Resume</h1>
 
