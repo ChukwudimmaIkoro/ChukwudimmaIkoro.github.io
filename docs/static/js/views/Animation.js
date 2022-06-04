@@ -20,10 +20,12 @@ export default class extends AbstractView {
            <div class="row">
            <div class="column">
            
+           <div class="wrap">
            <iframe width="1024" height="576" 
            src="https://www.youtube.com/embed/TD9cUuaGlI0" 
-           title="YouTube video player" frameborder="0" position="relative" scrollbar="auto" allow="accelerometer; autoplay; 
+           title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
            clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+           </div>
 
             <img src="docs/static/css/images/SonicRunGif.gif" 
             style="width=100%; height=576">
