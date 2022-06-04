@@ -24,7 +24,7 @@ export default class extends AbstractView {
            clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
             <img src="docs/static/css/images/SonicRunGif.gif" 
-            style="width=100%; height="576">
+            style="max-width:100%;height:auto;">
 
             <img src="docs/static/css/images/Flour_Fight.gif" 
             style="width=100%; height=576">
