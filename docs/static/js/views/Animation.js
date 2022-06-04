@@ -16,6 +16,9 @@ export default class extends AbstractView {
         <p>
            This is a collection of animation I have done for 
            classes, Youtube, or just for personal improvement.</p>
+
+           <div class="row">
+           <div class="column">
            
            <iframe width="1024" height="576" 
            src="https://www.youtube.com/embed/TD9cUuaGlI0" 
@@ -45,6 +48,9 @@ export default class extends AbstractView {
 
             <img src="docs/static/css/images/SnomSpin.gif" 
             style="width=100%; height=576">
+
+            </div>
+            </div>
 
         </div>
         `;
