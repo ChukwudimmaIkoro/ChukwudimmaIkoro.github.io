@@ -11,21 +11,27 @@ export default class extends AbstractView {
     async getHtml() {
         return `
         <div class="fade-in-text">
+
+        <div class="row">
+            <div class="column">
+            
         <h1>CS Resume</h1>
 
            <iframe frameborder="0" scrolling="no"
            width="1080" height="1080"
            src="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview">
            </iframe>
-
+        </div>
+        <div class="column">
            <h1>Art Resume</h1>
 
            <iframe frameborder="0" scrolling="no"
            width="1080" height="1080"
            src="https://drive.google.com/file/d/1NGbNtH4NDODOeDoOGtybTfT5xALsxdyn/preview">
            </iframe>
-
-
+           
+         </div>
+         </div>
         </div>
 
 
