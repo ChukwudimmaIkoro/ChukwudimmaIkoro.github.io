@@ -23,11 +23,6 @@ export default class extends AbstractView {
             </iframe>
             </div>
 
-           <iframe frameborder="0" scrolling="yes"
-           width="720" height="720" float="left"
-           src="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview">
-           </iframe>
-
            <h1>Art Resume</h1>
 
            <iframe frameborder="0" scrolling="yes"
