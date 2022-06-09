@@ -13,18 +13,15 @@ export default class extends AbstractView {
         <div class="fade-in-text">
         <h1>CS Resume</h1>
         
-            <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
-            <iframe
-                src="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview"
-                title="ikoro-memory-game on Glitch"
-                allow="midi; encrypted-media; fullscreen"
-                allowFullScreen
-                style="height: 260%; width: 100%; border: 0;">
-            </iframe>
-            </div>
+           <h2><a href="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview" target="_blank" rel="noopener noreferrer">Resume Link</a></h2>
+           <iframe frameborder="0" scrolling="yes"
+           width="720" height="720" float="left"
+           src="https://drive.google.com/file/d/1AIZ6sBtnlxDOZ6CRbKJdp2RhLX1Vab-q/preview">
+           </iframe>
 
            <h1>Art Resume</h1>
-
+            
+           <h2><a href="https://drive.google.com/file/d/1NGbNtH4NDODOeDoOGtybTfT5xALsxdyn/preview" target="_blank" rel="noopener noreferrer">Resume Link</a></h2>
            <iframe frameborder="0" scrolling="yes"
            width="720" height="720" float="left"
            src="https://drive.google.com/file/d/1NGbNtH4NDODOeDoOGtybTfT5xALsxdyn/preview">
