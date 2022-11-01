@@ -23,7 +23,7 @@ export default class extends AbstractView {
            
            <div class="container"> 
            <iframe class="responsive-iframe" 
-           src="https://www.youtube.com/embed/TD9cUuaGlI0" 
+           src="https://www.youtube.com/embed/KAlrZNAqPUI" 
            title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
            clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
            </div>
