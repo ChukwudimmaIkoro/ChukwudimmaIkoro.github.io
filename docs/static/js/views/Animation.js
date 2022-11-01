@@ -47,12 +47,6 @@ export default class extends AbstractView {
             <img src="docs/static/css/images/flow.gif"  
             style="width=100%; height=576">
 
-            <img src="docs/static/css/images/owlphibia.gif" 
-            style="width=100%; height=576">
-
-            <img src="docs/static/css/images/SnomSpin.gif" 
-            style="width=100%; height=576">
-
             </div>
             </div>
         </div>
